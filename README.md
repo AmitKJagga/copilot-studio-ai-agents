@@ -138,15 +138,26 @@ Microsoft Copilot Studio · Copilot Studio Workflows (Power Automate) · SharePo
 
 ## Screenshots
 
-| | |
-|---|---|
-| Workflow canvas | `screenshots/workflow.png` |
-| Triaged tickets with AI Summary | `screenshots/tickets.png` |
-| Teams security alert | `screenshots/teams-alert.png` |
-| Agent answering in Teams | `screenshots/agent-teams.png` |
-| DLP policy blocking Dropbox | `screenshots/dlp-block.png` |
-| Evaluation results | `screenshots/evaluate.png` |
-| Website chatbot answering anonymously | `screenshots/website-bot.png` |
+**Ticket Auto-Triage workflow**
+![Workflow canvas](screenshots/workflow.png)
+
+**Triaged tickets with AI Summary**
+![Triaged tickets](screenshots/tickets.png)
+
+**Security alert in Teams**
+![Teams security alert](screenshots/teams-alert.png)
+
+**IT Helper answering in Teams**
+![Agent in Teams](screenshots/agent-teams.png)
+
+**DLP policy blocking Dropbox**
+![DLP block](screenshots/dlp-block.png)
+
+**Evaluation results**
+![Evaluation results](screenshots/evaluate.png)
+
+**Website chatbot answering an anonymous visitor**
+![Website chatbot](screenshots/website-bot.png)
 
 ---
 
